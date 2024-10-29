@@ -1,0 +1,14 @@
+close
+ftruncate
+lseek
+open
+truncate
+
+stack overflow:
+malloc
+free
+calloc
+
+
+chat:
+reallocarray realloc
